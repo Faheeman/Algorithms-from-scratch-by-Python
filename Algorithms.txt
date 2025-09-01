@@ -1,0 +1,232 @@
+📘 General Computer Science Algorithms
+🔍 Searching
+
+Linear Search
+
+Binary Search
+
+Jump Search
+
+Exponential Search
+
+Interpolation Search
+
+🔢 Sorting
+
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Radix Sort
+
+Counting Sort
+
+Bucket Sort
+
+Shell Sort
+
+📊 Graph Algorithms
+
+Breadth-First Search (BFS)
+
+Depth-First Search (DFS)
+
+Dijkstra’s Algorithm
+
+Bellman–Ford Algorithm
+
+Floyd–Warshall Algorithm
+
+A* Search Algorithm
+
+Prim’s Algorithm
+
+Kruskal’s Algorithm
+
+Topological Sort
+
+Johnson’s Algorithm
+
+📐 String Algorithms
+
+Naïve Pattern Searching
+
+Knuth–Morris–Pratt (KMP)
+
+Rabin–Karp
+
+Z Algorithm
+
+Boyer–Moore Algorithm
+
+Suffix Trees & Arrays
+
+Longest Common Subsequence (LCS)
+
+Longest Common Substring
+
+Edit Distance (Levenshtein)
+
+Aho–Corasick
+
+🔑 Number/Math Algorithms
+
+Euclidean Algorithm (GCD)
+
+Sieve of Eratosthenes
+
+Fast Exponentiation
+
+Modular Arithmetic Algorithms
+
+Matrix Multiplication (Strassen’s)
+
+Karatsuba Multiplication
+
+FFT (Fast Fourier Transform)
+
+📂 Data Structures and Related Algorithms
+🗂 Arrays & Strings
+
+Kadane’s Algorithm (Max Subarray Sum)
+
+Sliding Window Algorithms
+
+Prefix Sum / Difference Array
+
+🔗 Linked Lists
+
+Floyd’s Cycle Detection
+
+Reversal Algorithms
+
+Merge Two Sorted Lists
+
+🌳 Trees
+
+Binary Search Tree (BST) Algorithms
+
+AVL Tree Rotations
+
+Segment Tree (Range Query, Range Update)
+
+Fenwick Tree (Binary Indexed Tree)
+
+Trie (Prefix Tree) Algorithms
+
+Lowest Common Ancestor (LCA)
+
+🛢 Heaps
+
+Heap Insertion / Deletion
+
+Heapify
+
+Priority Queue Operations
+
+🧩 Hashing
+
+Hash Functions
+
+Collision Handling (Chaining, Open Addressing)
+
+Bloom Filters
+
+📈 Graph Data Structures
+
+Adjacency List / Matrix
+
+Union–Find (Disjoint Set Union, DSU)
+
+Tarjan’s Algorithm (Strongly Connected Components)
+
+🤖 Machine Learning Algorithms
+📏 Regression
+
+Linear Regression
+
+Polynomial Regression
+
+Ridge Regression
+
+Lasso Regression
+
+Elastic Net Regression
+
+Logistic Regression
+
+🧮 Classification
+
+k-Nearest Neighbors (k-NN)
+
+Decision Trees
+
+Random Forests
+
+Naïve Bayes
+
+Support Vector Machines (SVM)
+
+Gradient Boosted Trees (XGBoost, LightGBM, CatBoost)
+
+📊 Clustering
+
+k-Means Clustering
+
+Hierarchical Clustering
+
+DBSCAN
+
+Gaussian Mixture Models (GMM)
+
+Mean Shift
+
+🧠 Neural Networks / Deep Learning
+
+Perceptron
+
+Multi-Layer Perceptron (MLP)
+
+Convolutional Neural Networks (CNN)
+
+Recurrent Neural Networks (RNN)
+
+LSTM / GRU
+
+Transformers
+
+📉 Dimensionality Reduction
+
+Principal Component Analysis (PCA)
+
+Linear Discriminant Analysis (LDA)
+
+t-SNE
+
+UMAP
+
+🧪 Ensemble Methods
+
+Bagging
+
+Boosting (AdaBoost, Gradient Boosting, XGBoost, CatBoost, LightGBM)
+
+Stacking
+
+🎯 Reinforcement Learning
+
+Q-Learning
+
+SARSA
+
+Deep Q-Networks (DQN)
+
+Policy Gradient Methods
