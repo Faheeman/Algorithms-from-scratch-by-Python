@@ -21,7 +21,7 @@ def Bin_search_all(sorted_list, low, high, element):
                 positions.append(right)
                 right += 1
             
-            positions.sort()
+            positions.sort() 
             print(f"The number {element} is found at positions {[p+1 for p in positions]}")
             return
         elif element < sorted_list[mid]:
