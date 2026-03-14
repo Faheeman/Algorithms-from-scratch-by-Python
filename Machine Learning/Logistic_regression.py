@@ -14,7 +14,7 @@ def bce(y,y_pred):
     y_pred = np.clip(y_pred, 1e-15, 1 - 1e-15)
     loss=-np.sum(y*np.log(y_pred)+(1-y)*np.log(1-y_pred))/n
     return loss
-def gradient_descent(x,y,w,b,learning_rate=0.01,epochs=1000):
+def gradient_descent(x,y,w,b,learning_rate=0.01,epochs=10000):
     n=len(y)
     for epoch in range(epochs):
         y_pred=sigmoid(x,w,b)
